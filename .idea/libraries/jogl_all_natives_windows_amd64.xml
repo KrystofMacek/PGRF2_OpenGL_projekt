@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jogl-all-natives-windows-amd64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/jogl-all-natives-windows-amd64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

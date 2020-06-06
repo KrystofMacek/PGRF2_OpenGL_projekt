@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="c04_macek_krystof:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/c04_macek_krystof_jar</output-path>
+    <root id="archive" name="c04_macek_krystof.jar">
+      <element id="module-output" name="c04_macek_krystof" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jogl2.0-rc11/jogamp-all-platforms/jar/gluegen-rt.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
